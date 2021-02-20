@@ -1,3 +1,7 @@
+Here you can read description from website where i bring it. But here is also some notes. On GitHub you can see all changes.
+
+
+
 
 ==================================================================================================
 
