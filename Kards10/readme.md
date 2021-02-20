@@ -1,7 +1,9 @@
-Here you can read description from website where i bring it. But here is also some notes. On GitHub you can see all changes.
+Here you can read description from website where i bring it. But here is also some notes. I didn't make a lot of changes. Here is no text and descriptions a little bit not correct. But here info about me. 
 
-
-
+![Image alt](https://github.com/ValeriePond/ButalovaValeriya-ValeriePond-CV/blob/master/Kards10/Screenshot_1.png)
+![Image alt](https://github.com/ValeriePond/ButalovaValeriya-ValeriePond-CV/blob/master/Kards10/Screenshot_2.png)
+![Image alt](https://github.com/ValeriePond/ButalovaValeriya-ValeriePond-CV/blob/master/Kards10/Screenshot_3.png)
+![Image alt](https://github.com/ValeriePond/ButalovaValeriya-ValeriePond-CV/blob/master/Kards10/Screenshot_4.png)
 
 ==================================================================================================
 
